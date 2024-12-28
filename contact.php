@@ -124,8 +124,8 @@ if(isset($_POST['send']))
                                 <li class="d-flex mb-4"> <i class="fas fa-envelope text-white mr-2 font-13 mt-1"></i>
                                     <div class="contact-address">
                                         <h5 class="text-white">Email Adderss</h5>
-										<span class="d-table text-secondary">harshilpatel@gmail.com</span>
-										<span class="text-secondary">yashumretiya@gmail.com</span>
+										<span class="d-table text-secondary">workers.add@gmail.com</span>
+										<span class="text-secondary">patelbhia@gmail.com</span>
 										</div>
                                 </li>
                             </ul>

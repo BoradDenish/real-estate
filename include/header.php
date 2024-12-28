@@ -4,8 +4,8 @@
                     <div class="row">
                         <div class="col-md-8">
                             <ul class="top-contact list-text-white  d-table">
-                                <li><a href="#"><i class="fas fa-phone-alt text-primary mr-1"></i>(+91) 9265926592</a></li>
-                                <li><a href="#"><i class="fas fa-envelope text-primary mr-1"></i>harshilpatel@gamil.com</a></li>
+                                <li><a href="#"><i class="fas fa-phone-alt text-primary mr-1"></i>(+91) 9099090990</a></li>
+                                <li><a href="#"><i class="fas fa-envelope text-primary mr-1"></i>xyz@gamil.com</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
